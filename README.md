@@ -1,5 +1,7 @@
 # SF Stairs
 
+**Learning-fork maintainer: [Tyler Katayama](https://github.com/tylerkat89) · [Attribution](ATTRIBUTION.md)**
+
 An interactive field guide to San Francisco stairways, hosted with Cloudflare Workers Static Assets. Built with TypeScript, Vite, and Leaflet.
 
 ## Development
