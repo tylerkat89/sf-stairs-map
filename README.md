@@ -4,6 +4,20 @@
 
 An interactive field guide to San Francisco stairways, hosted with Cloudflare Workers Static Assets. Built with TypeScript, Vite, and Leaflet.
 
+## Project context
+**WeAreDevelopers — Entire workshop · learning fork.**
+
+I kept this fork from the WeAreDevelopers Entire workshop to explore mapping and data verification. The application and its existing measurement/import work come from [elizabethsiegle/sf-stairs-map](https://github.com/elizabethsiegle/sf-stairs-map) and its contributors. At the October 21, 2026 audit baseline, this fork's main branch matched upstream exactly; no separate implementation contribution by Tyler is claimed.
+
+The source collection and photography credits below remain part of the project. Workshop participation does not imply endorsement by the organizers or the upstream authors.
+
+## Status and navigation
+This is a workshop learning copy with application source and existing tests, not a claim of a separately maintained production service. A live deployment owned by Tyler has not been verified.
+
+[Upstream project](https://github.com/elizabethsiegle/sf-stairs-map) · [Data and attribution](#data-and-attribution) · [Portfolio](https://github.com/tylerkat89)
+
+The inherited escalator assessment is a playful scoring experiment, not an engineering feasibility assessment or a verified accessibility rating. Surveyed counts, measured estimates, and missing data should remain distinguishable.
+
 ## Development
 
 ```sh
@@ -15,6 +29,9 @@ npm test
 ```
 
 ## Deployment
+
+Operator reference only; deployment is separate from local development. This portfolio pass does not deploy or change hosting.
+
 
 ```sh
 npm run deploy
